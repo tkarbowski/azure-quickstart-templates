@@ -30,8 +30,8 @@ The default is the Zulu Java 8 JDK.
 
 The VM is deployed in the resource group location by default using the latest patched version of the Linux distribution and a Standard_D2s_v3 size VM as the default value.
 
-The Zulu apt install script is available [here](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-Linux-Java-ZuluOpenJDK/scripts/apt-zulu-install.sh)<br/>
-The Zulu yum install script is available [here](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-Linux-Java-ZuluOpenJDK/scripts/yum-zulu-install.sh)
+The Zulu apt install script is available [here.](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-Linux-Java-ZuluOpenJDK/scripts/apt-zulu-install.sh)
+The Zulu yum install script is available [here.](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-Linux-Java-ZuluOpenJDK/scripts/yum-zulu-install.sh)
 
 **Related Templates**
 - [101-Windows-Java-ZuluOpenJDK](https://github.com/Azure/azure-quickstart-templates/tree/master/101-Windows-Java-ZuluOpenJDK)
