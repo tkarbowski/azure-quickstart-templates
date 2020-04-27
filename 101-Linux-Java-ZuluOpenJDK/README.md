@@ -1,5 +1,14 @@
 # VM-Linux - Azul Zulu OpenJDK installation
 
+![Azure Public Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/PublicLastTestDate.svg)
+![Azure Public Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/PublicDeployment.svg)
+
+![Azure US Gov Last Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/FairfaxLastTestDate.svg)
+![Azure US Gov Last Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/FairfaxDeployment.svg)
+
+![Best Practice Check](https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/BestPracticeResult.svg)
+![Cred Scan Check](https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/CredScanResult.svg)
+
 <IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/PublicLastTestDate.svg" />&nbsp;
 <IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/PublicDeployment.svg" />&nbsp;
 
