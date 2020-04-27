@@ -22,8 +22,8 @@ This template deploys a Linux VM with the Azul Zulu for Azure - Enterprise Editi
 The VM can be configured using new or existing resources for Storage, the Virtual Network and Public IP Address.<br/>
 Authentication can be done using an sshPublicKey or a Password.
 
-Choices for the Linux OS are Ubuntu 18.04-LTS, Debian 9, Debian 10, or CentOS 8.1.<br/>
-The default is Ubuntu 18.04-LTS.
+Choices for the Linux OS are Ubuntu 20.04-LTS, Ubuntu 18.04-LTS, Debian 9, Debian 10, or CentOS 8.1.<br/>
+The default is Ubuntu 20.04-LTS.
 
 Choices for the Zulu OpenJDK JVM are the JDK, JRE, or Headless JRE for the latest release of Java 7, 8, 11, or 13.<br/>
 The default is the Zulu Java 8 JDK.
