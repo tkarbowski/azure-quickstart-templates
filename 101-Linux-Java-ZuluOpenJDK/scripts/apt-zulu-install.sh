@@ -28,7 +28,7 @@
  apt-get update
  apt-get -y --no-install-recommends install dirmngr gnupg software-properties-common
  apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 0x219BD9C9
- apt-add-repository "deb http://repos.azul.com/azure-only/zulu/apt stable main"
+ sudo apt-add-repository -m "deb http://repos.azul.com/azure-only/zulu/apt stable main"
  apt-get update
  apt-get -y dist-upgrade
  apt-get -y --no-install-recommends install $ZULU_PACK
