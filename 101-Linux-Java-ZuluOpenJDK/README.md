@@ -9,15 +9,6 @@
 ![Best Practice Check](https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/BestPracticeResult.svg)
 ![Cred Scan Check](https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/CredScanResult.svg)
 
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/PublicLastTestDate.svg" />&nbsp;
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/PublicDeployment.svg" />&nbsp;
-
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/FairfaxLastTestDate.svg" />&nbsp;
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/FairfaxDeployment.svg" />&nbsp;
-
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/BestPracticeResult.svg" />&nbsp;
-<IMG SRC="https://azurequickstartsservice.blob.core.windows.net/badges/101-Linux-Java-ZuluOpenJDK/CredScanResult.svg" />&nbsp;
-
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftkarbowski%2Fazure-quickstart-templates%2Fmaster%2F101-Linux-Java-ZuluOpenJDK%2Fazuredeploy.json" target="_blank">
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true"/>
 </a>
